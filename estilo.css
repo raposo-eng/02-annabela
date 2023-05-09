@@ -10,7 +10,11 @@ body{
 #menu {
 background: #c5c5b2;
 padding: 18px;
+}
 
+#conteudo {
+    background: #c5c5b2;
+    padding: 10px;
 }
 
 a {
