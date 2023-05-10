@@ -13,7 +13,7 @@ padding: 18px;
 }
 
 #conteudo {
-    background: #c5c5b2;
+    background: white;
     padding: 10px;
 }
 
@@ -23,3 +23,23 @@ a {
     font-weight: bold;
     padding: 5px;
 }
+
+h1 {
+    color: darkmagenta;
+    font-size: 1.2em;
+}
+
+#rodape {
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3ae;
+}
+
